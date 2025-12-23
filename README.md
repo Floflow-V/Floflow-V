@@ -42,4 +42,4 @@
 ---
 
 ##  My stats :
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Floflow-V&show_icons=true&layout=compact&cache-bust=1" width="500">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Floflow-V&show_icons=true&layout=compact&cache-bust=1" width="400">
