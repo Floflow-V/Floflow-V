@@ -5,11 +5,6 @@
 
 ### 👨‍💻 My portfolio -> [https://florian-vrst.com/](https://portfolio-florian-vrst.vercel.app/)
 
-### 🌐 My networks : 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flovan30) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florian-vanreust-366a4a1a1/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:florianvanreust@gmail.com)
-
 ---
 
 ##  Languages, Frameworks and Tools :
